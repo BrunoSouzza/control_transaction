@@ -1,0 +1,10 @@
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\Transation_RollBack.exe.config
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\Transation_RollBack.exe
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\Transation_RollBack.pdb
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\EntityFramework.dll
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\EntityFramework.xml
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\obj\Debug\Transation_RollBack.csprojResolveAssemblyReference.cache
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\obj\Debug\Transation_RollBack.exe
+C:\Users\bruno.jesus\Desktop\Transation_RollBack\Transation_RollBack\obj\Debug\Transation_RollBack.pdb
